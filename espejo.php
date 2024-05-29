@@ -1,5 +1,6 @@
 <?php
 /**
+ * MODIFICADA
  * Actividad 1.2  En esta actividad debes crear en tu servidor un script PHP con el nombre 
  * practica-XXXXXX.php, donde XXXXXX será tu apellido. 
  * A continuación escribe dentro de este script bloques de código y DocBlocks para que 
